@@ -1,0 +1,2 @@
+*{box-sizing:border-box;font-family:Rubik,sans-serif;margin:0;padding:0}nav{border-bottom:1px solid #0b0b45}.header{color:#0b0b45;font-size:1.8rem;padding:30px}.cards{grid-gap:30px;display:grid;gap:30px;grid-template-columns:repeat(3,1fr);margin-bottom:30px;margin-inline:auto;width:80%}.card{background:#0b0b45;border-radius:10px;color:#fff;height:200px;margin-top:30px;padding:30px}.card-title{font-size:1.5rem;padding-bottom:20px}@media screen and (max-width:500px){.cards{display:block}}
+/*# sourceMappingURL=main.4f5a65ac.css.map*/
